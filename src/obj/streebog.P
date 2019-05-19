@@ -1,0 +1,2 @@
+obj/streebog.o: streebog.c sph_streebog.h sph_types.h
+streebog.c sph_streebog.h sph_types.h :
